@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import WoMoPlaces
+
 
 class WoMoPlacesTests: XCTestCase {
 

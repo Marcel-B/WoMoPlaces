@@ -7,6 +7,7 @@
 //
 
 import SwiftUI
+import ChameleonFramework
 
 struct MainListRow: View {
     let viewModel: MainListRowViewModel

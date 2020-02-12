@@ -1,0 +1,6 @@
+framework module Pods_WoMoPlacesTests {
+  umbrella header "Pods-WoMoPlacesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
